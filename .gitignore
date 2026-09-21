@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.kaggle/
+01_text_preprocessing/data/*.csv
+01_text_preprocessing/data/*.zip
