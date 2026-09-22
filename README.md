@@ -44,7 +44,8 @@ A course-style repository for learning major NLP algorithms by reading and runni
 
 - [x] Repository scaffold and syllabus
 - [x] Topic 1: Text preprocessing pipeline
-- [ ] Topics 2–23: implemented sequentially after review
+- [x] Topic 2: Bag of Words and N-grams
+- [ ] Topics 3–23: implemented sequentially after review
 
 ## Working convention
 
