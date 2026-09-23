@@ -7,3 +7,5 @@ __pycache__/
 01_text_preprocessing/data/*.zip
 02_bag_of_words_and_ngrams/data/*.csv
 02_bag_of_words_and_ngrams/data/*.zip
+03_tfidf_retrieval/data/*.json
+03_tfidf_retrieval/data/*.zip
