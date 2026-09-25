@@ -9,3 +9,5 @@ __pycache__/
 02_bag_of_words_and_ngrams/data/*.zip
 04_edit_distance_spelling_correction/data/*.csv
 04_edit_distance_spelling_correction/data/*.zip
+03_tfidf_retrieval/data/*.json
+03_tfidf_retrieval/data/*.zip
