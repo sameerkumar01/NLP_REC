@@ -48,7 +48,8 @@ A course-style repository for learning major NLP algorithms by reading and runni
 - [x] Topic 3: TF-IDF and document retrieval
 - [x] Topic 4: Edit distance and spelling correction
 - [x] Topic 5: Statistical N-gram language model
-- [ ] Topics 6–23: implemented sequentially after review
+- [x] Topic 6: Multinomial Naive Bayes text classifier
+- [ ] Topics 7–23: implemented sequentially after review
 
 ## Working convention
 
