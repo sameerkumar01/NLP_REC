@@ -16,3 +16,5 @@ __pycache__/
 05_ngram_language_model/data/*.zip
 06_naive_bayes_classifier/data/*.csv
 06_naive_bayes_classifier/data/*.zip
+07_logistic_regression_classifier/data/*.csv
+07_logistic_regression_classifier/data/*.zip
