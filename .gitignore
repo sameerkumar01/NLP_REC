@@ -18,3 +18,5 @@ __pycache__/
 06_naive_bayes_classifier/data/*.zip
 07_logistic_regression_classifier/data/*.csv
 07_logistic_regression_classifier/data/*.zip
+08_svm_classifier/data/*.csv
+08_svm_classifier/data/*.zip

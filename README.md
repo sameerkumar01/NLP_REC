@@ -50,7 +50,8 @@ A course-style repository for learning major NLP algorithms by reading and runni
 - [x] Topic 5: Statistical N-gram language model
 - [x] Topic 6: Multinomial Naive Bayes text classifier
 - [x] Topic 7: Logistic regression for text classification
-- [ ] Topics 8–23: implemented sequentially after review
+- [x] Topic 8: Linear SVM for text classification
+- [ ] Topics 9–23: implemented sequentially after review
 
 ## Working convention
 
